@@ -1,0 +1,8 @@
+{
+  "name": "Som do Reino",
+  "description": "Uma plataforma digital gospel premium para louvor, edificação e gestão estratégica de artistas e conteúdos cristãos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
